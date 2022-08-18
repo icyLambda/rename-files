@@ -9,3 +9,6 @@ This script rename files...
   2. Create a new configuration: in the dialog box, click the button "**Add New Configuration**" → "**Python**".
   3. Set up run command: "**Script Path**": "**rename-files\rename_files.py**".
   4. The "**Working Directory**" parameter must point to the "**rename-files**" folder.
+
+#### Running STANDARD:  
+  1. Double-click on file rename_files.py
